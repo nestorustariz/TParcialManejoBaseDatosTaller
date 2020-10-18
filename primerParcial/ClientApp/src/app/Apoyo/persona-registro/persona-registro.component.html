@@ -1,0 +1,67 @@
+<section class="content">
+    <h1>Registro de personas</h1>
+    <div class="row">
+        <div class="col-md-6">
+            <div class="box-body">
+                <div class="form-group">
+                    <label>Identificacion</label>
+                    <input class="form-control" placeholder="Ingrese su identificacion" [(ngModel)]="persona.identificacion">
+                </div>
+                <div class="form-group">
+                    <label>Nombre</label>
+                    <input class="form-control" placeholder="Ingrese su nombre" [(ngModel)]="persona.nombre">
+                </div>
+                <div class="form-group">
+                    <label>Apellido</label>
+                    <input class="form-control" placeholder="Ingrese su apellido" [(ngModel)]="persona.apellido">
+                </div>
+                <div class="form-group">
+                    <label>Sexo</label>
+                    <select class="form-control" [(ngModel)]="persona.sexo">
+                        <option value="Femenino">Femenino</option>
+                        <option value="Masculino">Masculino</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label>Edad</label>
+                    <input class="form-control" type="number"placeholder="Ingrese su edad" [(ngModel)]="persona.edad">
+                </div>
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div class="box-body">
+                <div class="form-group">
+                    <label>Departamento</label>
+                    <input class="form-control" placeholder="Ingrese su departamento" [(ngModel)]="persona.departamento">
+                </div>
+                <div class="form-group">
+                    <label>Ciudad</label>
+                    <input class="form-control" placeholder="Ingrese su ciudad" [(ngModel)]="persona.ciudad">
+                </div>
+                <div class="form-group">
+                    <label>Tipo Ayuda:</label>
+                    <select class="form-control" [(ngModel)]="persona.modalidad">
+                        <option value="Alimentario">Alimentario</option>
+                        <option value="Economico">Economico</option>
+                    </select>    
+                </div>
+                <div class="form-group">
+                    <label>Valor Apoyo</label>
+                    <input class="form-control" type="number" placeholder="valor apoyo" [(ngModel)]="persona.valorApoyo">
+                </div>
+                <div class="form-group">
+                    <label>Fecha</label>
+                    <input type="date" class="form-control" [(ngModel)]="persona.fecha">
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3"></div>
+        <div class="col-md-3">
+            <button class="btn btn-primary form-control" (click)="add()">Registrar</button>
+        </div>
+        <div class="col-md-3">
+            <button class="btn btn-danger form-control">Cancelar</button>
+        </div>
+        <div class="col-md-3"></div>
+    </div>
+</section>

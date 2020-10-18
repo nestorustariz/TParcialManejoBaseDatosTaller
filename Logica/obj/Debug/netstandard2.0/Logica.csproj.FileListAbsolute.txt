@@ -1,0 +1,28 @@
+c:\Users\LUISK\Documents\web\PrimerParcial\Logica\bin\Debug\netstandard2.0\Logica.deps.json
+c:\Users\LUISK\Documents\web\PrimerParcial\Logica\bin\Debug\netstandard2.0\Logica.dll
+c:\Users\LUISK\Documents\web\PrimerParcial\Logica\bin\Debug\netstandard2.0\Logica.pdb
+c:\Users\LUISK\Documents\web\PrimerParcial\Logica\bin\Debug\netstandard2.0\Datos.dll
+c:\Users\LUISK\Documents\web\PrimerParcial\Logica\bin\Debug\netstandard2.0\Entidad.dll
+c:\Users\LUISK\Documents\web\PrimerParcial\Logica\bin\Debug\netstandard2.0\Entidad.pdb
+c:\Users\LUISK\Documents\web\PrimerParcial\Logica\bin\Debug\netstandard2.0\Datos.pdb
+c:\Users\LUISK\Documents\web\PrimerParcial\Logica\obj\Debug\netstandard2.0\Logica.csprojAssemblyReference.cache
+c:\Users\LUISK\Documents\web\PrimerParcial\Logica\obj\Debug\netstandard2.0\Logica.AssemblyInfoInputs.cache
+c:\Users\LUISK\Documents\web\PrimerParcial\Logica\obj\Debug\netstandard2.0\Logica.AssemblyInfo.cs
+c:\Users\LUISK\Documents\web\PrimerParcial\Logica\obj\Debug\netstandard2.0\Logica.csproj.CoreCompileInputs.cache
+c:\Users\LUISK\Documents\web\PrimerParcial\Logica\obj\Debug\netstandard2.0\Logica.csproj.CopyComplete
+c:\Users\LUISK\Documents\web\PrimerParcial\Logica\obj\Debug\netstandard2.0\Logica.dll
+c:\Users\LUISK\Documents\web\PrimerParcial\Logica\obj\Debug\netstandard2.0\Logica.pdb
+C:\Users\USUARIO\Documents\PROGRAMACION WEB\Base\PrimerParcial\Logica\bin\Debug\netstandard2.0\Logica.deps.json
+C:\Users\USUARIO\Documents\PROGRAMACION WEB\Base\PrimerParcial\Logica\bin\Debug\netstandard2.0\Logica.dll
+C:\Users\USUARIO\Documents\PROGRAMACION WEB\Base\PrimerParcial\Logica\bin\Debug\netstandard2.0\Logica.pdb
+C:\Users\USUARIO\Documents\PROGRAMACION WEB\Base\PrimerParcial\Logica\bin\Debug\netstandard2.0\Datos.dll
+C:\Users\USUARIO\Documents\PROGRAMACION WEB\Base\PrimerParcial\Logica\bin\Debug\netstandard2.0\Entidad.dll
+C:\Users\USUARIO\Documents\PROGRAMACION WEB\Base\PrimerParcial\Logica\bin\Debug\netstandard2.0\Entidad.pdb
+C:\Users\USUARIO\Documents\PROGRAMACION WEB\Base\PrimerParcial\Logica\bin\Debug\netstandard2.0\Datos.pdb
+C:\Users\USUARIO\Documents\PROGRAMACION WEB\Base\PrimerParcial\Logica\obj\Debug\netstandard2.0\Logica.csprojAssemblyReference.cache
+C:\Users\USUARIO\Documents\PROGRAMACION WEB\Base\PrimerParcial\Logica\obj\Debug\netstandard2.0\Logica.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\PROGRAMACION WEB\Base\PrimerParcial\Logica\obj\Debug\netstandard2.0\Logica.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\PROGRAMACION WEB\Base\PrimerParcial\Logica\obj\Debug\netstandard2.0\Logica.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\PROGRAMACION WEB\Base\PrimerParcial\Logica\obj\Debug\netstandard2.0\Logica.csproj.CopyComplete
+C:\Users\USUARIO\Documents\PROGRAMACION WEB\Base\PrimerParcial\Logica\obj\Debug\netstandard2.0\Logica.dll
+C:\Users\USUARIO\Documents\PROGRAMACION WEB\Base\PrimerParcial\Logica\obj\Debug\netstandard2.0\Logica.pdb

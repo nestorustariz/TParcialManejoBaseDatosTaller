@@ -1,0 +1,18 @@
+c:\Users\LUISK\Documents\web\PrimerParcial\Entidad\bin\Debug\netstandard2.0\Entidad.deps.json
+c:\Users\LUISK\Documents\web\PrimerParcial\Entidad\bin\Debug\netstandard2.0\Entidad.dll
+c:\Users\LUISK\Documents\web\PrimerParcial\Entidad\bin\Debug\netstandard2.0\Entidad.pdb
+c:\Users\LUISK\Documents\web\PrimerParcial\Entidad\obj\Debug\netstandard2.0\Entidad.csprojAssemblyReference.cache
+c:\Users\LUISK\Documents\web\PrimerParcial\Entidad\obj\Debug\netstandard2.0\Entidad.AssemblyInfoInputs.cache
+c:\Users\LUISK\Documents\web\PrimerParcial\Entidad\obj\Debug\netstandard2.0\Entidad.AssemblyInfo.cs
+c:\Users\LUISK\Documents\web\PrimerParcial\Entidad\obj\Debug\netstandard2.0\Entidad.csproj.CoreCompileInputs.cache
+c:\Users\LUISK\Documents\web\PrimerParcial\Entidad\obj\Debug\netstandard2.0\Entidad.dll
+c:\Users\LUISK\Documents\web\PrimerParcial\Entidad\obj\Debug\netstandard2.0\Entidad.pdb
+C:\Users\USUARIO\Documents\PROGRAMACION WEB\Base\PrimerParcial\Entidad\bin\Debug\netstandard2.0\Entidad.deps.json
+C:\Users\USUARIO\Documents\PROGRAMACION WEB\Base\PrimerParcial\Entidad\bin\Debug\netstandard2.0\Entidad.dll
+C:\Users\USUARIO\Documents\PROGRAMACION WEB\Base\PrimerParcial\Entidad\bin\Debug\netstandard2.0\Entidad.pdb
+C:\Users\USUARIO\Documents\PROGRAMACION WEB\Base\PrimerParcial\Entidad\obj\Debug\netstandard2.0\Entidad.csprojAssemblyReference.cache
+C:\Users\USUARIO\Documents\PROGRAMACION WEB\Base\PrimerParcial\Entidad\obj\Debug\netstandard2.0\Entidad.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\PROGRAMACION WEB\Base\PrimerParcial\Entidad\obj\Debug\netstandard2.0\Entidad.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\PROGRAMACION WEB\Base\PrimerParcial\Entidad\obj\Debug\netstandard2.0\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\PROGRAMACION WEB\Base\PrimerParcial\Entidad\obj\Debug\netstandard2.0\Entidad.dll
+C:\Users\USUARIO\Documents\PROGRAMACION WEB\Base\PrimerParcial\Entidad\obj\Debug\netstandard2.0\Entidad.pdb
